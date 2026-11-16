@@ -66,7 +66,17 @@ My interests include user experience, responsive web design, and developing digi
 
 The Gio Experience is a responsive, multi-page website developed for a client to showcase and promote their creative work, services, and projects.
 
-The website features an organized navigation system, responsive layouts, light and dark modes, and a contact form with validation. Throughout development, I focused on accessibility, usability, and creating a visually engaging experience across devices.
+<p align="center">
+  <img
+    src="assets/wireframe.png"
+    alt="The Gio Experience website preview"
+    width="85%"
+  />
+</p>
+
+I began by gathering website assets from my client, including photographs and written content. I then began developing mockups and wireframes, refining them based on client feedback.
+
+Once we agreed on the wireframes, I began building the website and experimenting with color schemes while considering both accessibility and aesthetics 
 
 <table>
   <tr>
@@ -87,6 +97,8 @@ The website features an organized navigation system, responsive layouts, light a
   </tr>
 </table>
 
+The website features an organized navigation system, responsive layouts, light and dark modes, and a contact form with validation. Throughout development, I focused on accessibility, usability, and creating a visually engaging experience across devices.
+
 **Technologies:** HTML, CSS, JavaScript
 
 **My Role:** Web Design and Development
@@ -100,10 +112,10 @@ The website features an organized navigation system, responsive layouts, light a
 | Area | Skills & Tools |
 |------|----------------|
 | Front-End Development | HTML5, CSS3, JavaScript |
-| Programming & Databases | Python, SQL |
+| Programming & Databases | Python, Java, SQL |
 | Web Design | Responsive Design, Accessibility, Semantic HTML |
 | UX/UI Design | User Research, Wireframing, Prototyping |
-| Creative Software | Adobe Illustrator, Photoshop, InDesign |
+| Creative Software | Adobe Illustrator, Adobe Photoshop, Adobe InDesign |
 | Development Tools | Visual Studio Code, GitHub |
 
 ---
