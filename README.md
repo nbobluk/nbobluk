@@ -45,13 +45,43 @@ My interests include user experience, responsive web design, and developing digi
 ### The Gio Experience
 **Responsive Multi-Page Website | 2026**
 
-<p align="center">
-  <img
-    src="assets/"
-    alt="The Gio Experience website preview"
-    width="85%"
-  />
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="assets/home.png"
+        alt="The Gio Experience dark mode"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="assets/home_light.png"
+        alt="The Gio Experience light mode"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="assets/home.png"
+        alt="The Gio Experience dark mode"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="assets/home_light.png"
+        alt="The Gio Experience light mode"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 The Gio Experience is a responsive, multi-page website developed for a client to showcase and promote their creative work, services, and projects.
 
