@@ -104,6 +104,8 @@ The website features an organized navigation system, responsive layouts, light a
 **My Role:** Web Design and Development
 
 [View GitHub Repository](https://github.com/nbobluk/The-Gio-Experience)
+[View Webpage](nbobluk.github.io/The-Gio-Experience/)
+
 
 ---
 
