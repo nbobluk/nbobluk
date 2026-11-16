@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-<!-- NAMEPLATE / BRANDING -->
 
 <p align="center">
   <img
@@ -28,7 +24,6 @@
 
 ---
 
-<!-- ABOUT ME -->
 
 ## About Me
 
@@ -38,7 +33,6 @@ My interests include user experience, responsive web design, and developing digi
 
 ---
 
-<!-- FEATURED PROJECT -->
 
 ## Featured Project
 
