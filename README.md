@@ -64,28 +64,28 @@ My interests include user experience, responsive web design, and developing digi
   </tr>
 </table>
 
+The Gio Experience is a responsive, multi-page website developed for a client to showcase and promote their creative work, services, and projects.
+
+The website features an organized navigation system, responsive layouts, light and dark modes, and a contact form with validation. Throughout development, I focused on accessibility, usability, and creating a visually engaging experience across devices.
+
 <table>
   <tr>
     <td width="50%" align="center">
       <img
-        src="assets/home.png"
+        src="assets/cali.png"
         alt="The Gio Experience dark mode"
         width="100%"
       />
     </td>
     <td width="50%" align="center">
       <img
-        src="assets/home_light.png"
+        src="assets/cali_light.png"
         alt="The Gio Experience light mode"
         width="100%"
       />
     </td>
   </tr>
 </table>
-
-The Gio Experience is a responsive, multi-page website developed for a client to showcase and promote their creative work, services, and projects.
-
-The website features an organized navigation system, responsive layouts, light and dark modes, and a contact form with validation. Throughout development, I focused on accessibility, usability, and creating a visually engaging experience across devices.
 
 **Technologies:** HTML, CSS, JavaScript
 
