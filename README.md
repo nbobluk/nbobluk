@@ -5,7 +5,7 @@
 
 <p align="center">
   <img
-    src="assets/"
+    src="assets/Nameplate.png"
     alt="Nikolas Bobluk — Web Design and Development"
     width="100%"
   />
